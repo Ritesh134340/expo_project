@@ -8,7 +8,7 @@ function App(): JSX.Element {
       <Text style={styles.text}>Welcome to first React Native Project</Text>
       <Button title="Press Me" />
       <Button title="Press Me" />
-      <Button title="Press Me" />
+      <Button title="Press Me" color={'red'} />
     </View>
   );
 }
